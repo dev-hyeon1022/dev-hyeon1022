@@ -28,5 +28,5 @@
   
   
 <h2 align="center"> ✨My Github Stats✨ </h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-hyeon1022&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hyeon1022"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dev-hyeon1022&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hyeon1022&layout=compact"></p>
   
