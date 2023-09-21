@@ -20,7 +20,7 @@
   
 | Communication | Management | Environment | API |
 | --- | --- | --- | --- |
-| <span><img src="https://img.shields.io/badge/Slack-4A154B.svg?style=round-square&logo=Slack&logoColor=white"/></span><span><img src="https://img.shields.io/badge/Discord-5865F2?style=round-square&logo=Discord&logoColor=black"/></span> | <span><img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=black"/></span> | <span><img src="https://img.shields.io/badge/django-%23092E20.svg?style=round-square&logo=django&logoColor=white"/></span> | <span><img src="https://img.shields.io/badge/-REST-green?style=round-square&logo=-REST&logoColor=white"/></span> |
+| <span><img src="https://img.shields.io/badge/Slack-4A154B.svg?style=round-square&logo=Slack&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Discord-5865F2?style=round-square&logo=Discord&logoColor=black"/></span> | <span><img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=black"/></span> | <span><img src="https://img.shields.io/badge/django-%23092E20.svg?style=round-square&logo=django&logoColor=white"/></span> | <span><img src="https://img.shields.io/badge/-REST-green?style=round-square&logo=-REST&logoColor=white"/></span> |
 </p>
   
 <br>
